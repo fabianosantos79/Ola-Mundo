@@ -3,4 +3,4 @@
 
 Linha adicionada no Visual Studio Code.
 
-Linha adicionada diretamente no site GitHub
+Linha adicionada diretamente no site GitHub!
